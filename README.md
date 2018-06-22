@@ -1,9 +1,9 @@
-# A vue project for my friend's digital-project
-# url: http://dpj.s3-website-ap-northeast-1.amazonaws.com/
+### A vue project for my friend's digital-project
+### url: http://dpj.s3-website-ap-northeast-1.amazonaws.com/
 
 > A Vue.js project
 
-## Build Setup
+### Build Setup
 
 ``` bash
 # install dependencies
