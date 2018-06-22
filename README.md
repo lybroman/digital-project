@@ -1,4 +1,5 @@
-# aloha
+# A vue project for my friend's digital-project
+# url: http://dpj.s3-website-ap-northeast-1.amazonaws.com/
 
 > A Vue.js project
 
@@ -28,4 +29,3 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# vue project for digital-project
