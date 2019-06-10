@@ -1,4 +1,4 @@
-### A vue project for my friend's digital-project
+### A vue project for my friend's company which is named digital-project
 ### url: http://dpj.s3-website-ap-northeast-1.amazonaws.com/
 
 > A Vue.js project
